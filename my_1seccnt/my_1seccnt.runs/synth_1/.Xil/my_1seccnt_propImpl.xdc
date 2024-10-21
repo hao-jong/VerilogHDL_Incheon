@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/FPGA_project/my_1seccnt/my_1seccnt.srcs/constrs_1/new/my_1seccnt.xdc rfile:../../../my_1seccnt.srcs/constrs_1/new/my_1seccnt.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN H16 [get_ports CLK]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L15 [get_ports LED]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN D20 [get_ports RST]

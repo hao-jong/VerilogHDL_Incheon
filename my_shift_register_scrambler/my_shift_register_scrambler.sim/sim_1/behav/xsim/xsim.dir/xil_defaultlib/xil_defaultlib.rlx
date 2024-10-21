@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/FPGA_project/my_shift_register_scrambler/my_shift_register_scrambler.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/my_shift_register_scrambler/my_shift_register_scrambler.srcs/sim_1/new/my_shift_register_tb.v,1729494520,verilog,,,,my_shift_register_tb,,,,,,,,
+C:/FPGA_project/my_shift_register_scrambler/my_shift_register_scrambler.srcs/sources_1/new/my_shift_register.v,1729494670,verilog,,C:/FPGA_project/my_shift_register_scrambler/my_shift_register_scrambler.srcs/sources_1/new/my_xor.v,,my_shift_register,,,,,,,,
+C:/FPGA_project/my_shift_register_scrambler/my_shift_register_scrambler.srcs/sources_1/new/my_xor.v,1729490981,verilog,,C:/FPGA_project/my_shift_register_scrambler/my_shift_register_scrambler.srcs/sim_1/new/my_shift_register_tb.v,,my_xor,,,,,,,,
