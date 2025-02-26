@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/AXI_UART_RX/AXI_UART_RX.srcs/sources_1/imports/new/CNT_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CNT_11
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/AXI_UART_RX/AXI_UART_RX.srcs/sources_1/imports/new/CNT_31.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CNT_542
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/AXI_UART_RX/AXI_UART_RX.srcs/sources_1/imports/new/my_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/AXI_UART_RX/AXI_UART_RX.srcs/sources_1/imports/new/reg9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg9
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/AXI_UART_RX/AXI_UART_RX.srcs/sources_1/imports/new/UART_RX_ctl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UART_RX_ctl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/AXI_UART_RX/AXI_UART_RX.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

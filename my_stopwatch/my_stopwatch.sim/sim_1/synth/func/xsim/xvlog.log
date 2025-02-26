@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_stopwatch/my_stopwatch.sim/sim_1/synth/func/xsim/my_stopwatch_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module disp_mod
+INFO: [VRFC 10-311] analyzing module my_stopwatch
+INFO: [VRFC 10-311] analyzing module my_tick
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v" into library xil_defaultlib
+WARNING: [VRFC 10-3381] ignoring re-definition of command line macro 'SIMULATION' [C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v:2]
+INFO: [VRFC 10-311] analyzing module my_stopwatch_tb
+WARNING: [VRFC 10-2938] 'clk' is already implicitly declared on line 25 [C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v:27]
+WARNING: [VRFC 10-2938] 'clr' is already implicitly declared on line 25 [C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v:28]
+WARNING: [VRFC 10-2938] 'start' is already implicitly declared on line 25 [C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v:30]

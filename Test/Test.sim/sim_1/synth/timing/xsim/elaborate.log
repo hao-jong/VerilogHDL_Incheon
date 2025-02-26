@@ -1,0 +1,127 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot hex_cnt_disp_tb_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.hex_cnt_disp_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "hex_cnt_disp_tb_time_synth.sdf", for root module "hex_cnt_disp_tb/hex_cnt_disp_0".
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[3]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[4]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[5]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms[6]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_10ms_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[3]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[4]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[5]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m[5]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1m_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s[0]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s[1]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s[3]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s[4]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s[5]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s_reg[0] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s_reg[1] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/cnt_1s_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[0]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[1]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[2]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[3]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[4]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[5]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_10 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_11 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_12 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_13 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_14 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_15 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_16 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_17 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_18 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_19 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_6 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_7 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_8 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg0_OBUF[6]_inst_i_9 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[0]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[1]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[2]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[3]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[4]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[5]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_10 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_11 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_4 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_5 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_6 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_7 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_8 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/hex_cnt_test_0/seg1_OBUF[6]_inst_i_9 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[0]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[1]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[2]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[3]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[4]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[5]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg0_OBUF[6]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[0]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[1]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[2]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[3]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[4]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[5]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /hex_cnt_disp_tb/hex_cnt_disp_0/seg1_OBUF[6]_inst in the HDL hierarchy, annotation will be skipped.
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "hex_cnt_disp_tb_time_synth.sdf", for root module "hex_cnt_disp_tb/hex_cnt_disp_0".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.FDCE_default
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1(INIT=2'b01)
+Compiling module simprims_ver.FDRE_default
+Compiling module xil_defaultlib.hex_cnt_test
+Compiling module simprims_ver.OBUF
+Compiling module xil_defaultlib.hex_cnt_disp
+Compiling module xil_defaultlib.hex_cnt_disp_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot hex_cnt_disp_tb_time_synth

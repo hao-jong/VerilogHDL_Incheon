@@ -1,0 +1,10 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2024.1/data/xilinx_vip/include" --include "../../../../AXI_UART.gen/sources_1/bd/AXI_UART_TX/ipshared/ec67/hdl" --include "../../../../AXI_UART.gen/sources_1/bd/AXI_UART_TX/ipshared/b28c/hdl" \
+"../../../bd/AXI_UART_TX/ip/AXI_UART_TX_myip_slave_lite_v1_0_0_0/sim/AXI_UART_TX_myip_slave_lite_v1_0_0_0.v" \
+"../../../bd/AXI_UART_TX/ip/AXI_UART_TX_processing_system7_0_0/sim/AXI_UART_TX_processing_system7_0_0.v" \
+"../../../bd/AXI_UART_TX/ip/AXI_UART_TX_auto_pc_0/sim/AXI_UART_TX_auto_pc_0.v" \
+"../../../bd/AXI_UART_TX/sim/AXI_UART_TX.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

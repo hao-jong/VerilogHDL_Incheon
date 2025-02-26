@@ -22,11 +22,14 @@
 
 module my_sw2LED(
     input [3:0] SW,
-    output reg [6:0] AN,
-    output reg CN
+    output [6:0] AN,
+    output CN
 );
- 
-    reg [7:0] LED;
+
+    reg [7:0] LED; 
+    assign AN = LED[6:0];
+    assign CN = LED[7];
+
  
     always @(SW)
     begin
@@ -43,9 +46,6 @@ module my_sw2LED(
             4'h9: LED = 8'h6f;
             default: LED = 8'h00;
         endcase
-
-        AN = LED[6:0];
-        CN = LED[7];
     end
 
 endmodule

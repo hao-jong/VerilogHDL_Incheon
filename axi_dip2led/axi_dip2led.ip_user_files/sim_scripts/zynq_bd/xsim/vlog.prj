@@ -1,0 +1,10 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2024.1/data/xilinx_vip/include" --include "../../../../axi_dip2led.gen/sources_1/bd/zynq_bd/ipshared/ec67/hdl" --include "../../../../axi_dip2led.gen/sources_1/bd/zynq_bd/ipshared/b28c/hdl" \
+"../../../bd/zynq_bd/ip/zynq_bd_processing_system7_0_0/sim/zynq_bd_processing_system7_0_0.v" \
+"../../../bd/zynq_bd/ip/zynq_bd_myip_slave_lite_v1_0_0_0/sim/zynq_bd_myip_slave_lite_v1_0_0_0.v" \
+"../../../bd/zynq_bd/ip/zynq_bd_auto_pc_0/sim/zynq_bd_auto_pc_0.v" \
+"../../../bd/zynq_bd/sim/zynq_bd.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

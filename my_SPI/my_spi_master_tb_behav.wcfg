@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="my_spi_master_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="my_spi_master_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="377.953 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,124.410 ns"></ZoomEndTime>
+      <Cursor1Time time="715.254 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="356"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/addr" type="array">
+      <obj_property name="ElementShortName">addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/wr_data" type="array">
+      <obj_property name="ElementShortName">wr_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_data[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/CMD" type="array">
+      <obj_property name="ElementShortName">CMD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CMD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/bvalid" type="logic">
+      <obj_property name="ElementShortName">bvalid</obj_property>
+      <obj_property name="ObjectShortName">bvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/MOSI" type="logic">
+      <obj_property name="ElementShortName">MOSI</obj_property>
+      <obj_property name="ObjectShortName">MOSI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/SOMI" type="logic">
+      <obj_property name="ElementShortName">SOMI</obj_property>
+      <obj_property name="ObjectShortName">SOMI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/sclk" type="logic">
+      <obj_property name="ElementShortName">sclk</obj_property>
+      <obj_property name="ObjectShortName">sclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/CNT" type="array">
+      <obj_property name="ElementShortName">CNT[4:0]</obj_property>
+      <obj_property name="ObjectShortName">CNT[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/curr_state" type="array">
+      <obj_property name="ElementShortName">curr_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/next_state" type="array">
+      <obj_property name="ElementShortName">next_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">next_state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_spi_master_tb/my_spi_master_0/addr_width" type="array">
+      <obj_property name="ElementShortName">addr_width[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_width[31:0]</obj_property>
+   </wvobject>
+</wave_config>

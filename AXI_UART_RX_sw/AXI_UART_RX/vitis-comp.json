@@ -1,0 +1,15 @@
+{
+  "name": "AXI_UART_RX",
+  "type": "HOST",
+  "platform": "C:\\FPGA_project\\AXI_UART_RX_sw\\AXI_UART_RX_SW\\export\\AXI_UART_RX_SW\\AXI_UART_RX_SW.xpfm",
+  "domain": "standalone_ps7_cortexa9_0",
+  "cpuInstance": "ps7_cortexa9_0",
+  "cpuType": "cortex-a9",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_ps7_cortexa9_0",
+  "applicationFlow": "EMBEDDED"
+}

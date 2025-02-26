@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_115200_timer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_115200_timer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_UART_tx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_UART_tx
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_mod10_cnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mod10
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_shift_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftReg
+WARNING: [VRFC 10-3380] identifier 'q' is used before its declaration [C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_shift_register.v:10]
+WARNING: [VRFC 10-3380] identifier 'q' is used before its declaration [C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_shift_register.v:11]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_transmit_FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_transmit_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/parity_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module parity_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sim_1/new/my_UART_tx_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_UART_tx_tb

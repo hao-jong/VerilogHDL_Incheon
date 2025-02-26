@@ -1,0 +1,15 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_project/my_UART_rx/my_UART_rx.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sim_1/new/UART_RX_ctl_tb.v,1731913572,verilog,,,,UART_RX_ctl_tb,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sim_1/new/UART_TX_tb.v,1731977202,verilog,,,,UART_TX_tb,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/CNT_11.v,1731908420,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/CNT_31.v,,CNT_11,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/CNT_31.v,1731913081,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/UART_RX.v,,CNT_542,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/UART_RX.v,1731978351,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/UART_RX_ctl.v,,UART_RX,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/UART_RX_ctl.v,1731977907,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/disp.v,,UART_RX_ctl,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/disp.v,1731978518,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/my_fsm.v,,my_display,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/my_fsm.v,1731913073,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/my_tick_gen.v,,my_fsm,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/my_tick_gen.v,1731915893,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/reg9.v,,my_tick_gen,,,,,,,,
+C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sources_1/new/reg9.v,1731908383,verilog,,C:/FPGA_project/my_UART_rx/my_UART_rx.srcs/sim_1/new/UART_TX_tb.v,,reg9,,,,,,,,

@@ -1,0 +1,10 @@
+-------------------------------------
+| Tool Version : Vivado v.2024.1
+| Date         : Mon Dec 16 11:55:40 2024
+| Host         : COMSYS01
+| Design       : checkpoint_zynq_axi_7seg_bd_wrapper
+| Device       : xc7z007s-clg400-1--
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+

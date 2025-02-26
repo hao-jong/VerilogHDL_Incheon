@@ -1,0 +1,12 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2024.1/data/xilinx_vip/include" --include "../../../../zynq_axi_7seg.gen/sources_1/bd/zynq_axi_7seg_bd/ipshared/ec67/hdl" --include "../../../../zynq_axi_7seg.gen/sources_1/bd/zynq_axi_7seg_bd/ipshared/b28c/hdl" \
+"../../../bd/zynq_axi_7seg_bd/ip/zynq_axi_7seg_bd_processing_system7_0_0/sim/zynq_axi_7seg_bd_processing_system7_0_0.v" \
+"../../../bd/zynq_axi_7seg_bd/ip/zynq_axi_7seg_bd_my_tick_gen_0_0/sim/zynq_axi_7seg_bd_my_tick_gen_0_0.v" \
+"../../../bd/zynq_axi_7seg_bd/ip/zynq_axi_7seg_bd_my_display_0_1/sim/zynq_axi_7seg_bd_my_display_0_1.v" \
+"../../../bd/zynq_axi_7seg_bd/ip/zynq_axi_7seg_bd_axi_slve_0_4/sim/zynq_axi_7seg_bd_axi_slve_0_4.v" \
+"../../../bd/zynq_axi_7seg_bd/ip/zynq_axi_7seg_bd_auto_pc_0/sim/zynq_axi_7seg_bd_auto_pc_0.v" \
+"../../../bd/zynq_axi_7seg_bd/sim/zynq_axi_7seg_bd.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

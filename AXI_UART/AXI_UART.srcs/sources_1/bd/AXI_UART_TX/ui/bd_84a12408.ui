@@ -1,0 +1,40 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.01532",
+   "Default View_TopLeft":"-335,-1082",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.7.1 2023-07-26 3bc4126617 VDI=43 GEI=38 GUI=JA:21.0 threadsafe
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 5 -x 1250 -y -500 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 5 -x 1250 -y -480 -defaultsOSRD
+preplace port port-id_parityselect_0 -pg 1 -lvl 0 -x -400 -y -610 -defaultsOSRD
+preplace port port-id_rst_0 -pg 1 -lvl 0 -x -400 -y -650 -defaultsOSRD
+preplace port port-id_sout_0 -pg 1 -lvl 5 -x 1250 -y -620 -defaultsOSRD
+preplace port port-id_busy_0 -pg 1 -lvl 5 -x 1250 -y -640 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -x 40 -y -450 -defaultsOSRD
+preplace inst axi_interconnect_0 -pg 1 -lvl 2 -x 460 -y -670 -defaultsOSRD
+preplace inst rst_ps7_0_50M -pg 1 -lvl 2 -x 460 -y -410 -defaultsOSRD
+preplace inst myip_slave_lite_v1_0_0 -pg 1 -lvl 3 -x 810 -y -650 -defaultsOSRD
+preplace inst my_UART_tx_0 -pg 1 -lvl 4 -x 1110 -y -630 -defaultsOSRD
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 4 -160 -560 280 -540 630 -560 980
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 1 1 290 -430n
+preplace netloc rst_ps7_0_50M_peripheral_aresetn 1 1 2 290 -530 650
+preplace netloc myip_slave_lite_v1_0_0_data_ready 1 3 1 1000 -660n
+preplace netloc myip_slave_lite_v1_0_0_PDATA_OUT 1 3 1 970 -640n
+preplace netloc parityselect_0_1 1 0 4 NJ -610 260J -550 NJ -550 1000J
+preplace netloc rst_0_1 1 0 4 NJ -650 240J -790 640J -570 990J
+preplace netloc my_UART_tx_0_sout 1 4 1 N -620
+preplace netloc my_UART_tx_0_busy 1 4 1 N -640
+preplace netloc processing_system7_0_DDR 1 1 4 270J -510 NJ -510 N -510 1220
+preplace netloc processing_system7_0_FIXED_IO 1 1 4 260J -520 NJ -520 N -520 1230
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 1 250 -730n
+preplace netloc axi_interconnect_0_M00_AXI 1 2 1 N -670
+levelinfo -pg 1 -400 40 460 810 1110 1250
+pagesize -pg 1 -db -bbox -sgen -540 -1020 1370 200
+"
+}
+{
+   "da_axi4_cnt":"1",
+   "da_clkrst_cnt":"1",
+   "da_ps7_cnt":"1"
+}

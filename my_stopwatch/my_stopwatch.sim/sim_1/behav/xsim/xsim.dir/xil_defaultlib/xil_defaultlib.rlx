@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/FPGA_project/my_stopwatch/my_stopwatch.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,SIMULATION,,,,
+C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v,1731310640,verilog,,,,my_stopwatch_tb,,,,SIMULATION,,,,
+C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sources_1/new/disp.v,1731304490,verilog,,C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sources_1/new/my_stopwatch.v,,disp_mod,,,,SIMULATION,,,,
+C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sources_1/new/my_stopwatch.v,1731310728,verilog,,C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sources_1/new/my_tick.v,,my_stopwatch,,,,SIMULATION,,,,
+C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sources_1/new/my_tick.v,1731301257,verilog,,C:/FPGA_project/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch_tb.v,,my_tick,,,,SIMULATION,,,,

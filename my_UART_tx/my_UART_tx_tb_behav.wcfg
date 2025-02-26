@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="my_UART_tx_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="my_UART_tx_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="2,001.700 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,261.501 ns"></ZoomEndTime>
+      <Cursor1Time time="2,045.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="96"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/send" type="logic">
+      <obj_property name="ElementShortName">send</obj_property>
+      <obj_property name="ObjectShortName">send</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/busy" type="logic">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/next_bit" type="logic">
+      <obj_property name="ElementShortName">next_bit</obj_property>
+      <obj_property name="ObjectShortName">next_bit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/load" type="logic">
+      <obj_property name="ElementShortName">load</obj_property>
+      <obj_property name="ObjectShortName">load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/shift" type="logic">
+      <obj_property name="ElementShortName">shift</obj_property>
+      <obj_property name="ObjectShortName">shift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/reset_timer" type="logic">
+      <obj_property name="ElementShortName">reset_timer</obj_property>
+      <obj_property name="ObjectShortName">reset_timer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/reset_cnt" type="logic">
+      <obj_property name="ElementShortName">reset_cnt</obj_property>
+      <obj_property name="ObjectShortName">reset_cnt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/increment" type="logic">
+      <obj_property name="ElementShortName">increment</obj_property>
+      <obj_property name="ObjectShortName">increment</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/mod10_0/count_10" type="logic">
+      <obj_property name="ElementShortName">count_10</obj_property>
+      <obj_property name="ObjectShortName">count_10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/mod10_0/cnt" type="array">
+      <obj_property name="ElementShortName">cnt[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/transmit_FSM_0/curr_state" type="array">
+      <obj_property name="ElementShortName">curr_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/my_115200_timer_0/counter" type="array">
+      <obj_property name="ElementShortName">counter[16:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/shiftreg_0/loaddata" type="array">
+      <obj_property name="ElementShortName">loaddata[8:0]</obj_property>
+      <obj_property name="ObjectShortName">loaddata[8:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/parity_gen_0/parity" type="logic">
+      <obj_property name="ElementShortName">parity</obj_property>
+      <obj_property name="ObjectShortName">parity</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/parity_gen_0/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/parity_gen_0/parity" type="logic">
+      <obj_property name="ElementShortName">parity</obj_property>
+      <obj_property name="ObjectShortName">parity</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/my_UART_tx_0/shiftreg_0/q" type="array">
+      <obj_property name="ElementShortName">q[9:0]</obj_property>
+      <obj_property name="ObjectShortName">q[9:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_UART_tx_tb/sout" type="logic">
+      <obj_property name="ElementShortName">sout</obj_property>
+      <obj_property name="ObjectShortName">sout</obj_property>
+   </wvobject>
+</wave_config>

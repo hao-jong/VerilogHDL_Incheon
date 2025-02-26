@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/Test/Test.sim/sim_1/synth/timing/xsim/hex_cnt_disp_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_cnt_disp
+INFO: [VRFC 10-311] analyzing module hex_cnt_test
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_project/Test/Test.srcs/sim_1/new/hex_cnt_disp_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_cnt_disp_tb

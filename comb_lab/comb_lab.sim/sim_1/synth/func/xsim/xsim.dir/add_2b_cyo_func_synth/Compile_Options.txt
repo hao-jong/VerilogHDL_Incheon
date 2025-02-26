@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "secureip" --snapshot "add_2b_cyo_func_synth" "xil_defaultlib.add_2b_cyo" "xil_defaultlib.glbl" -log "elaborate.log" 

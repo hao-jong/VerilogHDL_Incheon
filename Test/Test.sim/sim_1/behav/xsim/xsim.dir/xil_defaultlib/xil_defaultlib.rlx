@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_project/Test/Test.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sim_1/imports/new/hex_cnt_test_tb.v,1740020630,verilog,,,,hex_cnt_test_tb,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sim_1/new/cnt_top_tb.v,1740099533,verilog,,,,cnt_top_tb,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sim_1/new/hex_cnt_disp_tb.v,1740028912,verilog,,,,hex_cnt_disp_tb,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sources_1/new/bcd2seg.v,1740028077,verilog,,C:/FPGA_project/Test/Test.srcs/sources_1/new/cnt_top.v,,bcd2seg,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sources_1/new/cnt_top.v,1740100168,verilog,,C:/FPGA_project/Test/Test.srcs/sources_1/new/hex2bcd.v,,cnt_top,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sources_1/new/hex2bcd.v,1740023444,verilog,,C:/FPGA_project/Test/Test.srcs/sources_1/new/hex_cnt_disp.v,,hex2bcd,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sources_1/new/hex_cnt_disp.v,1740100078,verilog,,C:/FPGA_project/Test/Test.srcs/sources_1/new/test.v,,hex_cnt_disp,,,,,,,,
+C:/FPGA_project/Test/Test.srcs/sources_1/new/test.v,1740029242,verilog,,C:/FPGA_project/Test/Test.srcs/sim_1/new/cnt_top_tb.v,,hex_cnt_test,,,,,,,,

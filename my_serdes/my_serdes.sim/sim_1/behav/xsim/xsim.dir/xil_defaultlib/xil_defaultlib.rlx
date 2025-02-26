@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/FPGA_project/my_serdes/my_serdes.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/my_serdes/my_serdes.srcs/sim_1/new/my_s2p_tb.v,1729561590,verilog,,,,my_s2p_tb,,,,,,,,
+C:/FPGA_project/my_serdes/my_serdes.srcs/sim_1/new/my_serdes_tb.v,1729566687,verilog,,,,my_serdes_tb,,,,,,,,
+C:/FPGA_project/my_serdes/my_serdes.srcs/sources_1/new/my_p2s.v,1729574973,verilog,,C:/FPGA_project/my_serdes/my_serdes.srcs/sources_1/new/my_s2p.v,,my_p2s,,,,,,,,
+C:/FPGA_project/my_serdes/my_serdes.srcs/sources_1/new/my_p2s_tb.v,1729562787,verilog,,,,my_p2s_tb,,,,,,,,
+C:/FPGA_project/my_serdes/my_serdes.srcs/sources_1/new/my_s2p.v,1729567501,verilog,,C:/FPGA_project/my_serdes/my_serdes.srcs/sources_1/new/my_serdes.v,,my_s2p,,,,,,,,
+C:/FPGA_project/my_serdes/my_serdes.srcs/sources_1/new/my_serdes.v,1729566944,verilog,,C:/FPGA_project/my_serdes/my_serdes.srcs/sim_1/new/my_serdes_tb.v,,my_serdes,,,,,,,,

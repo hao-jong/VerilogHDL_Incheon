@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_project/my_SPI/my_SPI.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/my_SPI/my_SPI.srcs/sim_1/new/my_spi_master_tb.v,1737420864,verilog,,,,my_spi_master_tb,,,,,,,,
+C:/FPGA_project/my_SPI/my_SPI.srcs/sources_1/new/my_spi_master.v,1737421191,verilog,,C:/FPGA_project/my_SPI/my_SPI.srcs/sim_1/new/my_spi_master_tb.v,,my_spi_master,,,,,,,,

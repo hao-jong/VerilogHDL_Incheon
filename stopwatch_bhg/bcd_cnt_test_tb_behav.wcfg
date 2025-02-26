@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="hex_cnt_test_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="hex_cnt_test_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000000 ms"></ZoomStartTime>
+      <ZoomEndTime time="54.554560000 ms"></ZoomEndTime>
+      <Cursor1Time time="17.682441617 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="129"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/watch_state" type="array">
+      <obj_property name="ElementShortName">watch_state[1:0]</obj_property>
+      <obj_property name="ObjectShortName">watch_state[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/pls_100hz" type="logic">
+      <obj_property name="ElementShortName">pls_100hz</obj_property>
+      <obj_property name="ObjectShortName">pls_100hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/disp_md" type="logic">
+      <obj_property name="ElementShortName">disp_md</obj_property>
+      <obj_property name="ObjectShortName">disp_md</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/bcd" type="logic">
+      <obj_property name="ElementShortName">bcd</obj_property>
+      <obj_property name="ObjectShortName">bcd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/cnt_10ms" type="array">
+      <obj_property name="ElementShortName">cnt_10ms[6:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_10ms[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/cnt_1s" type="array">
+      <obj_property name="ElementShortName">cnt_1s[5:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_1s[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/cnt_1m" type="array">
+      <obj_property name="ElementShortName">cnt_1m[5:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_1m[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/cnt_1s_en" type="logic">
+      <obj_property name="ElementShortName">cnt_1s_en</obj_property>
+      <obj_property name="ObjectShortName">cnt_1s_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hex_cnt_test_tb/hex_cnt_test_0/cnt_1m_en" type="logic">
+      <obj_property name="ElementShortName">cnt_1m_en</obj_property>
+      <obj_property name="ObjectShortName">cnt_1m_en</obj_property>
+   </wvobject>
+</wave_config>

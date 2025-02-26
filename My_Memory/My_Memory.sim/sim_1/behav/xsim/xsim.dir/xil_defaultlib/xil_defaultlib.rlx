@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_project/My_Memory/My_Memory.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/My_Memory/My_Memory.srcs/sim_1/new/RAM_tb.v,1736729775,verilog,,,,RAM_tb,,,,,,,,
+C:/FPGA_project/My_Memory/My_Memory.srcs/sim_1/new/my_fifo_tb.v,1736733325,verilog,,,,my_fifo_tb,,,,,,,,
+C:/FPGA_project/My_Memory/My_Memory.srcs/sources_1/new/RAM.v,1736728682,verilog,,C:/FPGA_project/My_Memory/My_Memory.srcs/sim_1/new/RAM_tb.v,,RAM,,,,,,,,
+C:/FPGA_project/My_Memory/My_Memory.srcs/sources_1/new/my_fifo.v,1736732647,verilog,,C:/FPGA_project/My_Memory/My_Memory.srcs/sim_1/new/my_fifo_tb.v,,my_fifo,,,,,,,,

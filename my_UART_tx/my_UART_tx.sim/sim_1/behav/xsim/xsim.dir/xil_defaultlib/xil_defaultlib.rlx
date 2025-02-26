@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_project/my_UART_tx/my_UART_tx.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sim_1/new/my_UART_tx_tb.v,1731982828,verilog,,,,my_UART_tx_tb,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_115200_timer.v,1731395194,verilog,,C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_UART_tx.v,,my_115200_timer,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_UART_tx.v,1731888902,verilog,,C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_mod10_cnt.v,,my_UART_tx,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_mod10_cnt.v,1731394043,verilog,,C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_shift_register.v,,mod10,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_shift_register.v,1731982696,verilog,,C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_transmit_FSM.v,,shiftReg,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/my_transmit_FSM.v,1731393972,verilog,,C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/parity_gen.v,,my_transmit_FSM,,,,,,,,
+C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sources_1/new/parity_gen.v,1731379306,verilog,,C:/FPGA_project/my_UART_tx/my_UART_tx.srcs/sim_1/new/my_UART_tx_tb.v,,parity_gen,,,,,,,,

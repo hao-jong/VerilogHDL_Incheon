@@ -1,0 +1,15 @@
+{
+  "name": "axi_7seg",
+  "type": "HOST",
+  "platform": "C:\\FPGA_project\\zynq_axi_7seg_sw\\axi_7seg_plat\\export\\axi_7seg_plat\\axi_7seg_plat.xpfm",
+  "domain": "standalone_ps7_cortexa9_0",
+  "cpuInstance": "ps7_cortexa9_0",
+  "cpuType": "cortex-a9",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_ps7_cortexa9_0",
+  "applicationFlow": "EMBEDDED"
+}

@@ -1,0 +1,36 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.0",
+   "Default View_TopLeft":"334,-80",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.7.1 2023-07-26 3bc4126617 VDI=43 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 5 -x 1330 -y 60 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 5 -x 1330 -y 80 -defaultsOSRD
+preplace port port-id_rst_0 -pg 1 -lvl 0 -x -10 -y 380 -defaultsOSRD
+preplace port port-id_RXD_0 -pg 1 -lvl 0 -x -10 -y 400 -defaultsOSRD
+preplace port port-id_parity_error_0 -pg 1 -lvl 5 -x 1330 -y 280 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -x 220 -y 110 -defaultsOSRD
+preplace inst axi_interconnect_0 -pg 1 -lvl 2 -x 630 -y 200 -defaultsOSRD
+preplace inst rst_ps7_0_50M -pg 1 -lvl 1 -x 220 -y 500 -defaultsOSRD
+preplace inst myip_slave_lite_v1_0_0 -pg 1 -lvl 3 -x 973 -y 380 -defaultsOSRD
+preplace inst UART_RX_ctl_0 -pg 1 -lvl 2 -x 630 -y 380 -defaultsOSRD
+preplace netloc RXD_0_1 1 0 2 NJ 400 NJ
+preplace netloc UART_RX_ctl_0_data_out 1 2 1 N 370
+preplace netloc UART_RX_ctl_0_parity_error 1 2 3 780J 280 NJ 280 N
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 3 10 220 470 460 790
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 2 20 230 420
+preplace netloc rst_ps7_0_50M_peripheral_aresetn 1 1 2 480 470 800J
+preplace netloc axi_interconnect_0_M00_AXI 1 2 1 790 200n
+preplace netloc processing_system7_0_DDR 1 1 4 NJ 60 NJ 60 NJ 60 N
+preplace netloc processing_system7_0_FIXED_IO 1 1 4 NJ 80 NJ 80 NJ 80 N
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 1 480 120n
+levelinfo -pg 1 -10 220 630 973 1210 1330
+pagesize -pg 1 -db -bbox -sgen -110 -100 1550 1540
+"
+}
+{
+   "da_axi4_cnt":"1",
+   "da_clkrst_cnt":"2",
+   "da_ps7_cnt":"1"
+}
